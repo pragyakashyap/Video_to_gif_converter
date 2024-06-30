@@ -23,7 +23,6 @@ Before you begin, ensure you have met the following requirements:
 
 ```bash
 git clone https://github.com/pragyakashyap/Video_to_gif_converter.git
-cd video-to-gif
 ```
 
 2. Install the required packages:
