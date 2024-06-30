@@ -1,7 +1,7 @@
 # Video_to_gif_converter
 # Video to GIF Converter
 
-This Flask application allows users to upload a video file, converts the video into GIFs, and adds captions based on the audio transcription. The application processes the video, generates GIFs with text overlays, and provides downloadable links for the generated GIFs.
+This Flask application allows users to upload a video file, converts the video into GIFs, and adds captions based on the audio transcription. The application processes the video, generates GIFs with text overlays.
 
 ## Features
 
