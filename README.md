@@ -22,7 +22,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/video-to-gif.git
+git clone (https://github.com/pragyakashyap/Video_to_gif_converter.git)
 cd video-to-gif
 ```
 
