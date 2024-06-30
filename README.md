@@ -39,7 +39,7 @@ python app.py
 
 3. Upload a video file and wait for the processing to complete.
 
-4.Find the generated GIFs with large captinos.
+4. Find the generated GIFs with large captions.
 
 ![Video Processor](https://github.com/pragyakashyap/Video_to_gif_converter/assets/47416981/dd86e9fe-2607-4235-ab89-cff0cebaa39c)
 
