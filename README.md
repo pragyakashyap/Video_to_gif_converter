@@ -1,5 +1,4 @@
 # Video_to_gif_converter
-# Video to GIF Converter
 
 This Flask application allows users to upload a video file, converts the video into GIFs, and adds captions based on the audio transcription. The application processes the video, generates GIFs with text overlays.
 
@@ -8,7 +7,6 @@ This Flask application allows users to upload a video file, converts the video i
 - Upload video files (MP4 format).
 - Extract audio from the video and transcribe it to text.
 - Generate GIFs from the video fragments with text captions.
-- Download the generated GIFs.
 
 ## Prerequisites
 
@@ -26,16 +24,17 @@ Before you begin, ensure you have met the following requirements:
 ```bash
 git clone https://github.com/yourusername/video-to-gif.git
 cd video-to-gif
+```
 
 2. Install the required packages:
 ```bash
 pip install moviepy speechrecognition pydub flask
-
+```
 ## Usage
 1. Start the Flask application:
 ```bash
 python app.py
-
+```
 2. Open your web browser and go to http://localhost:5000.
 
 3. Upload a video file and wait for the processing to complete.
